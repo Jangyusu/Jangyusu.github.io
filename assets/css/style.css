@@ -55,7 +55,7 @@ main, .notepad-share-icons, .notepad-disqus {
   .notepad-blog-menu .notepad-mobile-menu a {
     display: inline-block;
     outline: none;
-    color: black;
+    color: #fff;
     padding-top: 1.25rem;
     padding-bottom: 1.25rem; }
     .notepad-blog-menu .notepad-mobile-menu a:hover {
