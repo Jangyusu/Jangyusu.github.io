@@ -11,8 +11,7 @@ body {
   font-family: "Open Sans", sans-serif;
   height: auto;
   min-height: 100%;
-  line-height: 1;
-  background: url(../../images/home.jpg) no-repeat center; }
+  line-height: 1; }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", sans-serif; }
@@ -135,7 +134,7 @@ main, .notepad-share-icons, .notepad-disqus {
               border-bottom: 0.1875rem solid #800080; } }
 
 .notepad-site-head .notepad-site-head-menu {
-  position: fixed; }
+  background: #fff; }
   .notepad-site-head .notepad-site-head-menu .notepad-blog-logo {
     display: inline-block;
     max-height: 5rem; }
@@ -161,7 +160,7 @@ main, .notepad-share-icons, .notepad-disqus {
 .notepad-site-head .notepad-site-head-content {
   width: 100%;
   text-align: center; 
-  background: ;}
+  background: url(../../images/home.jpg) no-repeat center / cover; }
   .notepad-site-head .notepad-site-head-content.with-bg-cover {
     background-color: rgba(0, 0, 0, 0.7); }
   .notepad-site-head .notepad-site-head-content .notepad-site-head-title-bg {
