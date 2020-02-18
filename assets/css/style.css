@@ -16,7 +16,8 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center top;
-  background-attachment: fixed; }
+  background-attachment: fixed;
+  background-size: cover; }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", sans-serif; }
