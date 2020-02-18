@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /about/index.html
-title: SeungHyun Lee
-tags: [SeungHyun Lee]
+title: Yusu Jang
+tags: [Yusu Jang]
 imagefeature:
 chart: true
 ---
@@ -27,9 +27,9 @@ This is my personal blog. It currently has {{ site.posts | size }} posts in {{ s
 -->
 
 <h1 align="center">
-<a href=""> LSH </a>  
+<a href=""> JYS </a>  
 </h1>
 
 <h2>Connect</h2>
-✉️ [tmdgus508@naver.com]()  
-🌐 [https://github.com/lsh58](https://github.com/lsh58)
+✉️ [dbtnss@naver.com]()  
+🌐 [https://github.com/Jangyusu](https://github.com/Jangyusu)
