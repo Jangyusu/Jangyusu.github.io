@@ -135,7 +135,7 @@ main, .notepad-share-icons, .notepad-disqus {
               border-bottom: 0.1875rem solid #800080; } }
 
 .notepad-site-head .notepad-site-head-menu {
-  background: white; }
+  position: fixed; }
   .notepad-site-head .notepad-site-head-menu .notepad-blog-logo {
     display: inline-block;
     max-height: 5rem; }
