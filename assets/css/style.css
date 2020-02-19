@@ -1,3 +1,5 @@
+@import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@1.0/nanumsquare.css);
+
 /* tools */
 .cf:before,
 .cf:after {
@@ -263,7 +265,11 @@ main, .notepad-share-icons, .notepad-disqus {
     padding: 0;
     line-height: 1.1; }
     .notepad-content .notepad-index-post .notepad-post-header .notepad-post-title a {
-      color: black; }
+      color: black;
+      font-weight: 900;
+      font-family: 'NanumSquare', sans-serif;
+    }
+    .notepad-content .notepad-index-post .notepad-post-header .notepad-post-title a:hover {border-bottom: 3px solid #000;}
   @media only screen and (min-width: 40.063em) {
     .notepad-content .notepad-index-post .notepad-post-header .notepad-post-title {
       text-align: left;
@@ -276,7 +282,7 @@ main, .notepad-share-icons, .notepad-disqus {
     text-align: center; }
     .notepad-content .notepad-index-post .notepad-post-excerpt p {
       margin: 0;
-      font-size: 1.25rem; }
+      font-size: 1rem; }
   @media only screen and (min-width: 40.063em) {
     .notepad-content .notepad-index-post .notepad-post-excerpt {
       text-align: left; } }
