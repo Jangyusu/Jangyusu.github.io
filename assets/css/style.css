@@ -548,6 +548,7 @@ figcaption {
     -moz-border-radius: 4px;
     border-radius: 4px;
 }
+pre.highlight {background: #000;}
 .highlight .c { color: #3F6B5B; font-weight: bold} /* Comment */
 .highlight .err { color: #000000} /* Error */
 .highlight .g { color: #000000} /* Generic */
@@ -558,7 +559,7 @@ figcaption {
 .highlight .x { color: #000000} /* Other */
 .highlight .p { color: #000000} /* Punctuation */
 .highlight .cm { color: #3F6B5B; font-weight: bold} /* Comment.Multiline */
-.highlight .cp { color: #1071CE; font-weight: bold; text-decoration: underline} /* Comment.Preproc */
+.highlight .cp { color: #ccc; font-weight: bold; text-decoration: underline} /* Comment.Preproc */
 .highlight .c1 { color: #3F6B5B; font-weight: bold} /* Comment.Single */
 .highlight .cs { color: #3F6B5B; font-weight: bold} /* Comment.Special */
 .highlight .gd { color: #2020ff; background-color: #c8f2ea } /* Generic.Deleted */
@@ -579,8 +580,8 @@ figcaption {
 .highlight .kt { color: #8a2be2; text-decoration: underline} /* Keyword.Type */
 .highlight .ld { color: #000000} /* Literal.Date */
 .highlight .m { color: #00C226; text-decoration: underline} /* Literal.Number */
-.highlight .s { color: #000000} /* Literal.String */
-.highlight .na { color: #000000} /* Name.Attribute */
+.highlight .s { color: #f1fa8c} /* Literal.String */
+.highlight .na { color: #50fa7b} /* Name.Attribute */
 .highlight .nb { color: #000000} /* Name.Builtin */
 .highlight .nc { color: #000000} /* Name.Class */
 .highlight .no { color: #B91F49; text-decoration: underline} /* Name.Constant */
@@ -592,7 +593,7 @@ figcaption {
 .highlight .nn { color: #000000} /* Name.Namespace */
 .highlight .nx { color: #000000} /* Name.Other */
 .highlight .py { color: #000000} /* Name.Property */
-.highlight .nt { color: #F06F00; font-weight: bold} /* Name.Tag */
+.highlight .nt { color: #fff; font-weight: bold} /* Name.Tag */
 .highlight .nv { color: #8a2be2; text-decoration: underline} /* Name.Variable */
 .highlight .ow { color: #000000} /* Operator.Word */
 .highlight .w { color: #000000} /* Text.Whitespace */
