@@ -563,7 +563,7 @@ pre.highlight {
 .highlight .x { color: #000000} /* Other */
 .highlight .p { color: #000000} /* Punctuation */
 .highlight .cm { color: #3F6B5B; font-weight: bold} /* Comment.Multiline */
-.highlight .cp { color: #ccc; font-weight: bold; text-decoration: underline} /* Comment.Preproc */
+.highlight .cp { color: #999; font-weight: bold; text-decoration: underline} /* Comment.Preproc */
 .highlight .c1 { color: #3F6B5B; font-weight: bold} /* Comment.Single */
 .highlight .cs { color: #3F6B5B; font-weight: bold} /* Comment.Special */
 .highlight .gd { color: #2020ff; background-color: #c8f2ea } /* Generic.Deleted */
@@ -597,7 +597,7 @@ pre.highlight {
 .highlight .nn { color: #000000} /* Name.Namespace */
 .highlight .nx { color: #000000} /* Name.Other */
 .highlight .py { color: #000000} /* Name.Property */
-.highlight .nt { color: #ff79c6; font-weight: bold} /* Name.Tag */
+.highlight .nt { color: #000; font-weight: bold} /* Name.Tag */
 .highlight .nv { color: #8a2be2; text-decoration: underline} /* Name.Variable */
 .highlight .ow { color: #000000} /* Operator.Word */
 .highlight .w { color: #000000} /* Text.Whitespace */
