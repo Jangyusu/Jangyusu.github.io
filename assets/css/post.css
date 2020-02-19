@@ -660,3 +660,7 @@ iframe {
     vertical-align: super;
     color: black;
 }
+
+.gray {
+  background: #999;
+}
