@@ -1082,8 +1082,29 @@ img.mfp-img {
   right: 0;
   padding-top: 0; }
 
-span.a {
+span.y {
   background: #ffcc00;
+  border-radius: 5px;
+  font-weight: bold;
+  padding: 0 5px;
+}
+
+span.p {
+  background: #ff6666;
+  border-radius: 5px;
+  font-weight: bold;
+  padding: 0 5px;
+}
+
+span.g {
+  background: #00cc00;
+  border-radius: 5px;
+  font-weight: bold;
+  padding: 0 5px;
+}
+
+span.b {
+  background: #66cccc;
   border-radius: 5px;
   font-weight: bold;
   padding: 0 5px;
