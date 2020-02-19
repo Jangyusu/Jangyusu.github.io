@@ -1081,3 +1081,9 @@ img.mfp-img {
   top: 0;
   right: 0;
   padding-top: 0; }
+
+span.a {
+  background: #ffcc00;
+  border-radius: 5px;
+  font-weight: bold;
+}
