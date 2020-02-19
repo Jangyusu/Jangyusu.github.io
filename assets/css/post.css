@@ -416,7 +416,11 @@ html, body, .notepad-post-container, .notepad-post-header {
   width: 100%; }
   .notepad-page-title a,
   .notepad-post-title-simple a {
-    color: black; }
+    color: #fff;
+    background: #000;
+    border-radius: 5px;
+    padding: 0 5px;
+  }
     .notepad-page-title a:hover,
     .notepad-post-title-simple a:hover {
       color: #800080; }
