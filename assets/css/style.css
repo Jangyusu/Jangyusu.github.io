@@ -1108,9 +1108,6 @@ span.g {
 }
 
 span.b {
-  background: #66cccc;
-  border-radius: 5px;
-  padding: 5px 0;
   display: block;
-  text-align: center;
+  text-align: right;
 }
