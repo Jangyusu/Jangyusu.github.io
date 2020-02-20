@@ -10,7 +10,7 @@ description: "An archive of posts sorted by date."
     {% for post in site.posts %} {% if post.featured %} {% assign featuredcount = featuredcount | plus:'1' %}
     <li>
         <article>
-            <i class="fas fa-book"></i>
+            <i class="fa fa-book"></i>
             <a href="{{ site.url }}{{ post.url }}"
                 >{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a
             >
