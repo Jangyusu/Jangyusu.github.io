@@ -1111,3 +1111,8 @@ span.b {
   display: block;
   text-align: right;
 }
+
+.code {
+  width: 100%;
+  padding: 25%;
+}
