@@ -1103,10 +1103,8 @@ span.p {
 }
 
 span.g {
-  background: #00cc00;
-  border-radius: 5px;
+  border-bottom: 1px solid #00cc00;
   font-weight: bold;
-  padding: 0 5px;
 }
 
 span.b {
