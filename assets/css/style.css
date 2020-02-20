@@ -1107,6 +1107,11 @@ span.g {
   font-weight: bold;
 }
 
+span.c {
+  display: block;
+  text-align: center;
+}
+
 span.b {
   display: block;
   text-align: right;
