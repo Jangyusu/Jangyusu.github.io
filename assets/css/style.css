@@ -1112,8 +1112,7 @@ span.g {
 span.b {
   background: #66cccc;
   border-radius: 5px;
-  font-weight: bold;
-  padding: 0 5px;
-  margin: 0 auto;
+  padding: 5px 0;
   display: block;
+  text-align: center;
 }
