@@ -13,8 +13,7 @@ body {
   font-family: "Open Sans", sans-serif;
   height: auto;
   min-height: 100%;
-  line-height: 1; 
-  background-image: url(../../images/home.jpg);
+  line-height: 1;  
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center top;
@@ -169,10 +168,11 @@ main, .notepad-share-icons, .notepad-disqus {
         color: black; }
 .notepad-site-head .notepad-site-head-content {
   width: 100%;
-  text-align: center; }
-  /* background: url(../../images/home.jpg) no-repeat center / cover; } */
+  text-align: center; 
+  background: url(../../images/home.jpg) no-repeat center top / cover;
+}
   .notepad-site-head .notepad-site-head-content.with-bg-cover {
-    background-color: rgba(0, 0, 0, 0.7); }
+    background-color: rgba(0,0,0,1); }
   .notepad-site-head .notepad-site-head-content .notepad-site-head-title-bg {
     display: inline-block;
     padding: 0.625rem;
