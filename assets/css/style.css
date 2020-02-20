@@ -1114,4 +1114,6 @@ span.b {
   border-radius: 5px;
   font-weight: bold;
   padding: 0 5px;
+  margin: 0 auto;
+  display: block;
 }
