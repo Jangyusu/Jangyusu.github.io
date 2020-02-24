@@ -10,8 +10,7 @@ dropcap: true
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
 
-## remote_theme: hmfaysal/Notepad
-theme: [Architect]
+remote_theme: hmfaysal/Notepad
 
 url: "https://jangyusu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
