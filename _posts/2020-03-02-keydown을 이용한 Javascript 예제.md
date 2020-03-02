@@ -20,5 +20,5 @@ featured: true
 
 ### Key Point!
 
-<span class="g">window.addEventListener("keydown", function())</span> 이 함수는 아무 키나 눌렀을 때 함수가 실행됩니다.
-<span class="g">KeyCode : https://keycode.info/</span>
+<span class="g">window.addEventListener("keydown", function())</span> 이 함수는 아무 키나 눌렀을 때 함수가 실행됩니다.  
+<span class="g">KeyCode</span> https://keycode.info/
